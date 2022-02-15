@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/rajpurkait9/1Auth-widget/static/js/main.fbabe95a.js",
-    "index.html": "/rajpurkait9/1Auth-widget/index.html",
-    "main.fbabe95a.js.map": "/rajpurkait9/1Auth-widget/static/js/main.fbabe95a.js.map"
+    "main.js": "/1Auth-widget/static/js/main.fbabe95a.js",
+    "index.html": "/1Auth-widget/index.html",
+    "main.fbabe95a.js.map": "/1Auth-widget/static/js/main.fbabe95a.js.map"
   },
   "entrypoints": [
     "static/js/main.fbabe95a.js"
