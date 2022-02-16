@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/1Auth-widget/static/js/main.01b7d539.js",
+    "main.js": "/1Auth-widget/static/js/main.03489e64.js",
     "index.html": "/1Auth-widget/index.html",
-    "main.01b7d539.js.map": "/1Auth-widget/static/js/main.01b7d539.js.map"
+    "main.03489e64.js.map": "/1Auth-widget/static/js/main.03489e64.js.map"
   },
   "entrypoints": [
-    "static/js/main.01b7d539.js"
+    "static/js/main.03489e64.js"
   ]
 }
